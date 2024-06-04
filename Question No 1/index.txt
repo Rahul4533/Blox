@@ -1,0 +1,27 @@
+
+
+A. What did the system do?
+
+The doctor appointment system facilitated the scheduling of appointments for patients with healthcare providers. 
+It allowed patients to view available appointment slots, book appointments, cancel or reschedule them, and receive reminders.
+
+B. What other systems have you seen in the wild like that?
+
+Systems like Zocdoc, Practo, and Doctolib offer similar functionalities. 
+They enable users to search for healthcare providers based on various criteria, book appointments online, and manage their appointments efficiently.
+
+C. How do you approach the development problem?
+
+In approaching the development problem, we focused on designing a user-friendly interface for both patients and healthcare providers. 
+We prioritized features such as real-time availability updates, secure patient information handling, and integration with existing healthcare systems for seamless appointment management.
+
+D. What were interesting aspects where you copied code from Stack Overflow?
+
+One interesting aspect was implementing calendar integration for appointment scheduling.
+We referred to Stack Overflow for code snippets related to handling date and time operations, integrating with popular calendar APIs like Google Calendar, and ensuring compatibility across different platforms and devices.
+
+E. What did you learn from some very specific copy-paste? Mention explicitly some of them.
+
+From specific instances of copying code from Stack Overflow, I learned the importance of error handling and validation. 
+For example, when integrating with external APIs, it's crucial to handle edge cases such as network errors, API rate limits, and invalid input gracefully to provide a seamless user experience. 
+Additionally, I learned about the significance of properly documenting and testing the integrated code to ensure reliability and maintainability over time
